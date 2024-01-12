@@ -15,6 +15,6 @@ npm start
 -> final_auto_Labeing.ipynb
 
 ## 데이터 파일이 커서 나머지 파일은 전부 colab 링크로 남겨둠.
-
+https://drive.google.com/drive/folders/1TsWf_910erVLEvdFZ1cRFYqiil1d-ZUY?usp=sharing
 
 
